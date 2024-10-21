@@ -180,14 +180,3 @@ Comandos utilizados para testes e depuração.
 
 ---
 
-### Como Publicar no GitHub
-1. **Criar um Arquivo README.md**: No seu repositório GitHub, crie ou edite o arquivo `README.md`.
-2. **Copiar e Colar o Conteúdo**: Cole o conteúdo que organizei acima diretamente no arquivo Markdown.
-3. **Ajustar a Formatação**: Se desejar, adicione imagens, exemplos de uso ou links para outros arquivos no repositório, para melhorar a documentação.
-4. **Salvar as Alterações**: Commit suas mudanças e veja a documentação formatada automaticamente pelo GitHub.
-
-### Notas Adicionais
-- **Exemplos**: Para cada comando, você pode adicionar exemplos práticos de como ele deve ser utilizado.
-- **Links para Arquivos**: Adicione links para os arquivos Lua no repositório para fácil navegação. Você pode fazer isso utilizando a sintaxe `[Nome do arquivo](caminho/para/arquivo.lua)`.
-  
-Com essa estrutura, a documentação ficará organizada e fácil de ser lida por desenvolvedores e jogadores que acessarem o GitHub.
