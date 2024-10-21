@@ -1,6 +1,6 @@
-# **Documentação de Comandos - Orion RolePlay**
+# **Documentação de Comandos - MRI - QBOX**
 
-Esta documentação lista todos os comandos disponíveis no servidor Orion RolePlay, separados por categorias. Cada comando é descrito com base em seu nome e função no servidor.
+Esta documentação lista todos os comandos disponíveis na base MRI - QBOX, separados por categorias. Cada comando é descrito com base em seu nome e função no servidor.
 
 ---
 
